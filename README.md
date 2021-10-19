@@ -6,9 +6,9 @@ Version control is a way to track and manage changes to code. It can track an in
 
 ## Requirements
 
-Git
-GitHub
-Code Editor 
+* Git
+* GitHub
+* Code Editor 
 
 ## Step 1: Create a project folder on your computer
 
