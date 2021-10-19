@@ -18,14 +18,15 @@ A new project folder can be created using the command line
 
 ## Step 2: Install git 
 
-Here is the official git resource with instructions to help you download git. https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+Here is the official git resource with instructions to help you download git:
+https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
-Be sure to download for your operating system (Linux, Windows or MacOS).
+Be sure to download git that is specific for your operating system (Linux, Windows or MacOS).
 
-## Step 3: Sign-up for a GitHub account unless you already have one. 
+## Step 3: Sign-up for a GitHub account (unless you already have one) 
 
 https://github.com/
 
-## Step 4: Download your favorite code editor unless you already have one. 
+## Step 4: Download your favorite code editor (unless you already have one)
 
 Here is a recent Medium article with code editors to choose from: https://medium.com/utopicode/10-best-code-editors-for-software-developers-in-2021-8f96bd3a509b
